@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18630" started-at="2022-02-18T10:20:13Z" finished-at="2022-02-18T10:20:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18630" started-at="2022-02-18T10:20:13Z" finished-at="2022-02-18T10:20:31Z">
+      <class name="test.SauceSetup">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.SauceSetup@685cb137]" name="setup" is-config="true" duration-ms="8133" started-at="2022-02-18T10:20:13Z" finished-at="2022-02-18T10:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginpage()[pri:0, instance:test.SauceSetup@685cb137]" name="loginpage" duration-ms="227" started-at="2022-02-18T10:20:21Z" finished-at="2022-02-18T10:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginpage -->
+        <test-method status="PASS" signature="Menubtn()[pri:1, instance:test.SauceSetup@685cb137]" name="Menubtn" duration-ms="8386" started-at="2022-02-18T10:20:21Z" finished-at="2022-02-18T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menubtn -->
+        <test-method status="PASS" signature="ProductsPage()[pri:2, instance:test.SauceSetup@685cb137]" name="ProductsPage" duration-ms="179" started-at="2022-02-18T10:20:30Z" finished-at="2022-02-18T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductsPage -->
+        <test-method status="PASS" signature="ShoppingCart()[pri:3, instance:test.SauceSetup@685cb137]" name="ShoppingCart" duration-ms="153" started-at="2022-02-18T10:20:30Z" finished-at="2022-02-18T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShoppingCart -->
+        <test-method status="PASS" signature="CheckoutInformation()[pri:4, instance:test.SauceSetup@685cb137]" name="CheckoutInformation" duration-ms="208" started-at="2022-02-18T10:20:30Z" finished-at="2022-02-18T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutInformation -->
+        <test-method status="PASS" signature="CheckoutOverview()[pri:5, instance:test.SauceSetup@685cb137]" name="CheckoutOverview" duration-ms="59" started-at="2022-02-18T10:20:30Z" finished-at="2022-02-18T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutOverview -->
+        <test-method status="PASS" signature="CheckoutComplete()[pri:6, instance:test.SauceSetup@685cb137]" name="CheckoutComplete" duration-ms="67" started-at="2022-02-18T10:20:30Z" finished-at="2022-02-18T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutComplete -->
+        <test-method status="PASS" signature="logout()[pri:7, instance:test.SauceSetup@685cb137]" name="logout" duration-ms="144" started-at="2022-02-18T10:20:30Z" finished-at="2022-02-18T10:20:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.SauceSetup@685cb137]" name="teardown" is-config="true" duration-ms="1058" started-at="2022-02-18T10:20:30Z" finished-at="2022-02-18T10:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.SauceSetup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
